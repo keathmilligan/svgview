@@ -1,1 +1,2 @@
-svgview
+SVG Viewer
+==========
