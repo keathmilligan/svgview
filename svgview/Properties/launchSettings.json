@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "svgview": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Elite Dangerous Bindings.svg\"",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}
